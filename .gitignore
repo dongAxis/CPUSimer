@@ -1,0 +1,8 @@
+3rd_party/*
+CMakeCache.txt
+CMakeFiles/*
+cpusimer
+.DS_Store
+.vscode/
+cmake_install.cmake
+
